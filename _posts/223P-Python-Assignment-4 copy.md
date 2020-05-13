@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 223P-Python-Assignment-4
-description: https://github.com/mrozsypal81/223P-Python-Assignment-4
+title: Etiam
+description: Feugiat amet tempus
+image: assets/images/pic06.jpg
 ---
 
 
