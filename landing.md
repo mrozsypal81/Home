@@ -79,7 +79,7 @@ nav-menu: true
 		</header>
 		<p></p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Projects</a></li>
 		</ul>
 	</div>
 </section>
