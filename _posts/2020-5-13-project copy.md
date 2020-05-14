@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 description: About Me
-image: assets/images/FormalHeadshot002.jpg.jpg
+image: assets/images/FormalHeadshot002.jpg
 ---
 
 My name is Michael I am a recent Graduate from California State University Fullerton.
