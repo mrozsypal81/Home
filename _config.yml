@@ -2,7 +2,7 @@
 title: Portfolio
 email: mrozsypal81@gmail.com
 description: A collection of all projects done by Michael
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 #author:
 #street_address: 1234 Somewhere Road
