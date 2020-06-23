@@ -1,8 +1,8 @@
 # site settings
-title: Portfolio
+title: Home
 email: mrozsypal81@gmail.com
 description: A collection of all projects done by Michael
-baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/Home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 #author:
 #street_address: 1234 Somewhere Road
@@ -10,7 +10,7 @@ city: Fullerton
 state: CA
 #zip_code: 55555
 country: United States of America
-#phone: (716) 555-5555
+phone: (909) 730-5384
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
