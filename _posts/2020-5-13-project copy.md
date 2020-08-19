@@ -5,7 +5,7 @@ description: About Me
 image: assets/images/FormalHeadshot002.jpg
 ---
 
-My name is Michael Rozsypal I am a recent Computer Science Graduate from California State University Fullerton.
+My name is Michael Rozsypal I am a recent Computer Science Graduate from California State University Fullerton. I have been a full time student from August 2014 - May 2020.
 I have a great interest in computer science and computers in general. My father introduced me to computer games as early as five years old and I have not stopped being interested since then. 
 
 
